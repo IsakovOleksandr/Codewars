@@ -1,0 +1,7 @@
+c:\users\ramfa\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe.config
+c:\users\ramfa\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe
+c:\users\ramfa\source\repos\LINQ\LINQ\bin\Debug\LINQ.pdb
+c:\users\ramfa\source\repos\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+c:\users\ramfa\source\repos\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+c:\users\ramfa\source\repos\LINQ\LINQ\obj\Debug\LINQ.exe
+c:\users\ramfa\source\repos\LINQ\LINQ\obj\Debug\LINQ.pdb
